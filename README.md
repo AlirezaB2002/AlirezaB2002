@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alireza</h1>
 - 🌱 I’m currently learning **Nodejs and backend**
 
-- 💬 Ask me about **nodejs, django, js, pyhton,**
+- 💬 Ask me about nodejs, django, js, pyhton
 
 - 📫 How to reach me **alirezabaghiban@gmail.com**
 
